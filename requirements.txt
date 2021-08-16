@@ -1,0 +1,9 @@
+###### Requirements without Version Specifiers ######`
+numpy
+tqdm
+torch
+torchvision
+torchaudio
+Pillow
+opencv-python
+numba
